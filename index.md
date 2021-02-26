@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+Open Source Software Engineering Repository
 
-You can use the [editor on GitHub](https://github.com/soumyachan/Open_Source/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+My Website Link: https://soumyachan.github.io/Open_Source/
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Name : Soumya Chandra
 
-### Markdown
+BITS ID : 2020mt93013@wilp.bits-pilani.ac.in
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+About Me:
 
-```markdown
-Syntax highlighted code block
+I have approximately 4.5 years of experience in the field of Software development.
 
-# Header 1
-## Header 2
-### Header 3
+Education:
 
-- Bulleted
-- List
+Year College/University
 
-1. Numbered
-2. List
+2021 M.Tech in software Engineering from Birla Institute of Technology & Science, Pilani (Pursuing) 2012- 2016 B.Tech. in Information Technology from Banasthali University, Rajasthan
 
-**Bold** and _Italic_ and `Code` text
+Work Experience:
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/soumyachan/Open_Source/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+TCS Software Engineer, 2016-Current
